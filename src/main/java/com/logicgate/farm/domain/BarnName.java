@@ -1,0 +1,30 @@
+package com.logicgate.farm.domain;
+
+public enum BarnName {
+  ALPHA,
+  BRAVO,
+  CHARLIE,
+  DELTA,
+  ECHO,
+  FOXTROT,
+  GOLF,
+  HOTEL,
+  INDIA,
+  JULIET,
+  KILO,
+  LIMA,
+  MIKE,
+  NOVEMBER,
+  OSCAR,
+  PAPA,
+  QUEBEC,
+  ROMEO,
+  SIERRA,
+  TANGO,
+  UNIFORM,
+  VICTOR,
+  WHISKEY,
+  XRAY,
+  YANKEE,
+  ZULU
+}
